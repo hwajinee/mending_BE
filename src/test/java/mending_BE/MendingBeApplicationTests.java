@@ -1,4 +1,4 @@
-package com.example.mending_BE;
+package mending_BE;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
